@@ -143,7 +143,7 @@
             "type": "text",
             "settings": {
               "title": "",
-              "content": "<p><a href=\"\/pages\/imprint\" title=\"Imprint\">Imprint<\/a><\/p><p><a href=\"\/pages\/payment-and-shipping\" title=\"Payment and shipping\">Payment and Shipping<\/a><\/p>"
+              "content": "<p><a href=\"\/pages\/imprint\" title=\"Imprint\">Imprint<\/a><\/p><p><a href=\"\/pages\/payment-and-shipping\" title=\"Payment and shipping\">Payment and Shipping<\/a><\/p><p><a href=\"\/pages\/privacy-statement\" title=\"Privacy Statement\">Privacy Statement<\/a><\/p>"
             }
           },
           "footer-1": {
