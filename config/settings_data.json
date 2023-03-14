@@ -111,11 +111,11 @@
         ],
         "settings": {
           "enable_sticky_header": true,
-          "logo": "shopify:\/\/shop_images\/cm_logo.png",
-          "logo_max_width": 90,
+          "logo": "shopify:\/\/shop_images\/PDM_small_4d72de63-3e04-4a19-81bd-4e39578f3da7.png",
+          "logo_max_width": 160,
           "mobile_logo_max_width": 50,
           "show_locale_selector": true,
-          "show_currency_selector": true,
+          "show_currency_selector": false,
           "navigation_menu": "main-menu",
           "navigation_mobile_menu": "main-menu",
           "desktop_navigation_layout": "inline",
@@ -132,13 +132,6 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "e54d6367-cb65-4131-84f4-349fc305b78c": {
-            "type": "text",
-            "settings": {
-              "title": "",
-              "content": "<p><a href=\"https:\/\/cmdistro-eu.myshopify.com\/account\" title=\"https:\/\/cmdistro-eu.myshopify.com\/account\">My account<\/a><\/p>"
-            }
-          },
           "b1ff6c53-266c-47e1-8025-b1a6d9ba73b2": {
             "type": "text",
             "settings": {
@@ -151,13 +144,6 @@
             "settings": {
               "title": "",
               "content": "<p><a href=\"\/pages\/imprint\" title=\"Imprint\">Imprint<\/a><\/p><p><a href=\"\/pages\/payment-and-shipping\" title=\"Payment and shipping\">Payment and Shipping<\/a><\/p>"
-            }
-          },
-          "90870819-c265-4cc2-94b0-5e40ad2810f7": {
-            "type": "text",
-            "settings": {
-              "title": "",
-              "content": "<p><a href=\"\/pages\/about\" title=\"About\">About<\/a><\/p>"
             }
           },
           "footer-1": {
@@ -184,10 +170,8 @@
           }
         },
         "block_order": [
-          "e54d6367-cb65-4131-84f4-349fc305b78c",
           "b1ff6c53-266c-47e1-8025-b1a6d9ba73b2",
           "footer-0",
-          "90870819-c265-4cc2-94b0-5e40ad2810f7",
           "footer-1",
           "footer-2",
           "4a5f8bdc-021f-47d6-9dc9-422f54d43095"
