@@ -1,0 +1,581 @@
+{
+  "sections": {
+    "fc6b99b4-7b3b-4cac-b837-93c99192edda": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "text_width": "wide",
+        "title": "Happy Holidays!",
+        "content": "<p>We are going on <strong>Christmas break <\/strong><em><strong>until January 02<\/strong><\/em>. You can still order as usual, but there will be delays in your shipment.<br\/><em><strong>We would like to thank you for a fantastic 2022, wish you happy holidays and a good start for 2023!<\/strong><\/em><\/p>",
+        "button_text": "Our products",
+        "button_link": "shopify:\/\/collections\/all"
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "060e519f-71f2-47d1-9774-297e1178af0d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Unearth_TheWretched_0323_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Unearth_TheWretched_0323_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 0,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Unearth&sort_by=created-descending"
+          }
+        },
+        "9ae6ab61-ed94-48e6-92a9-7f36156e271b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ArchEnemy_BlackEarth-Stigmata_0223_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/ArchEnemy_BlackEarth-Stigmata_0223_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Arch+Enemy&sort_by=created-descending"
+          }
+        },
+        "a59137e5-eac8-477b-9730-cd4e88abfa4f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PredatoryVoid_skttdob_0223_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/PredatoryVoid_skttdob_0223_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Predatory+Void&sort_by=created-descending"
+          }
+        },
+        "a06fcaab-8821-404c-b2b0-85eae77c9cc0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FrozenSoul_GlacialDomination_0223_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/FrozenSoul_GlacialDomination_0223_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Frozen+Soul&sort_by=created-descending"
+          }
+        },
+        "d0931cc7-13f4-48e3-90f1-c06106a24ca4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Enforced_WarRemains_0123_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Enforced_WarRemains_0123_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Enforced&sort_by=created-descending"
+          }
+        },
+        "b8603db9-3ad2-4a29-840b-ec172b338979": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tribulation_HamartiaEP_0123_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Tribulation_HamartiaEP_0123_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Tribulation&sort_by=created-descending"
+          }
+        },
+        "9a0bcd06-84db-4815-9a08-674092b55466": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Afflicted_ReReleases_0123_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Afflicted_ReReleases_0123_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Afflicted&sort_by=created-descending"
+          }
+        },
+        "53b9c7e0-144a-4ddc-b033-4c630004361b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/OvSulfur_TheBurdenOfFaith_0123_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/OvSulfur_TheBurdenOfFaith_0123_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Ov+Sulfur&sort_by=created-descending"
+          }
+        },
+        "efb4d623-b806-4488-a2c7-ea7ac756f98d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NightDemon_Outsider_0123_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/NightDemon_Outsider_0123_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Night+Demon&sort_by=created-descending"
+          }
+        },
+        "14c84992-bcfa-4dac-9edb-650eaf36b382": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/JesusPiece_SoUnknown_0123_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/JesusPiece_SoUnknown_0123_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Jesus+Piece&sort_by=created-descending"
+          }
+        },
+        "cb82cede-26ea-490b-8b0b-8786f2e96ff0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GravePleasures_Plagueboys_0123_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/GravePleasures_Plagueboys_0123_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 0,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Grave+Pleasures&sort_by=created-descending"
+          }
+        },
+        "49ee2ab2-abc3-4897-b34d-5894154688c3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SuicideSilence_Remember_1222_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/SuicideSilence_Remember_1222_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Suicide+Silence&sort_by=created-descending"
+          }
+        }
+      },
+      "block_order": [
+        "060e519f-71f2-47d1-9774-297e1178af0d",
+        "9ae6ab61-ed94-48e6-92a9-7f36156e271b",
+        "a59137e5-eac8-477b-9730-cd4e88abfa4f",
+        "a06fcaab-8821-404c-b2b0-85eae77c9cc0",
+        "d0931cc7-13f4-48e3-90f1-c06106a24ca4",
+        "b8603db9-3ad2-4a29-840b-ec172b338979",
+        "9a0bcd06-84db-4815-9a08-674092b55466",
+        "53b9c7e0-144a-4ddc-b033-4c630004361b",
+        "efb4d623-b806-4488-a2c7-ea7ac756f98d",
+        "14c84992-bcfa-4dac-9edb-650eaf36b382",
+        "cb82cede-26ea-490b-8b0b-8786f2e96ff0",
+        "49ee2ab2-abc3-4897-b34d-5894154688c3"
+      ],
+      "settings": {
+        "edge_to_edge": false,
+        "section_size": "small",
+        "carousel_effect": "slide",
+        "autoplay": true,
+        "cycle_speed": 5
+      }
+    },
+    "f2af40f5-1458-4998-a36a-9e89ab416c98": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "39fe2dee-feab-4b48-903c-313b95285f5f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PredatoryVoid_skttdob_0223_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/PredatoryVoid_skttdob_0223_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Predatory+Void&sort_by=created-descending"
+          }
+        },
+        "f0c5d954-df7f-40a4-be06-7f1efd1030c6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FrozenSoul_GlacialDomination_0223_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/FrozenSoul_GlacialDomination_0223_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Frozen+Soul&sort_by=created-descending"
+          }
+        },
+        "af3eccb3-4de0-4991-84c5-572899d848d3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Enforced_WarRemains_0123_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Enforced_WarRemains_0123_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Enforced&sort_by=created-descending"
+          }
+        },
+        "375803c1-4661-4dea-8e5b-a63692d1a591": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tribulation_HamartiaEP_0123_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Tribulation_HamartiaEP_0123_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Tribulation&sort_by=created-descending"
+          }
+        },
+        "3c50ac95-4590-4504-bc51-2967a179fc2d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Afflicted_ReReleases_0123_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Afflicted_ReReleases_0123_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Afflicted&sort_by=created-descending"
+          }
+        },
+        "b195599c-9e32-4c33-92ad-cc28cf885e00": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/OvSulfur_TheBurdenOfFaith_0123_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/OvSulfur_TheBurdenOfFaith_0123_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Ov+Sulfur&sort_by=created-descending"
+          }
+        },
+        "f7e1891d-7163-47ba-8407-e840585330e0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ElectricCallboy_TEKKNO-Tour_0123_2160-720_76f5eb5b-0785-47b9-8783-77c1dbd010a0.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/ElectricCallboy_TEKKNO-Tour_0123_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 0,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Electric+Callboy&sort_by=created-descending"
+          }
+        },
+        "18cb4516-ad85-427b-8354-794c411ac443": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NightDemon_Outsider_0123_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/NightDemon_Outsider_0123_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Night+Demon&sort_by=created-descending"
+          }
+        },
+        "fd986305-e4cd-4562-b20b-a8270a633a23": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/JesusPiece_SoUnknown_0123_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/JesusPiece_SoUnknown_0123_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Jesus+Piece&sort_by=created-descending"
+          }
+        },
+        "69dd4e31-144d-42b8-8458-41ec6054d180": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GravePleasures_Plagueboys_0123_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/GravePleasures_Plagueboys_0123_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 0,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Grave+Pleasures&sort_by=created-descending"
+          }
+        },
+        "737b51eb-d113-45c9-9be6-64085c3dca8b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SuicideSilence_Remember_1222_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/SuicideSilence_Remember_1222_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.cmdistro.de\/collections\/vendors?q=Suicide+Silence&sort_by=created-descending"
+          }
+        },
+        "19ca52cd-628a-42e5-b335-27a1be19dcba": {
+          "type": "image",
+          "settings": {
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "Slide title",
+            "content": "Tell your story",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "Button",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "39fe2dee-feab-4b48-903c-313b95285f5f",
+        "f0c5d954-df7f-40a4-be06-7f1efd1030c6",
+        "af3eccb3-4de0-4991-84c5-572899d848d3",
+        "375803c1-4661-4dea-8e5b-a63692d1a591",
+        "3c50ac95-4590-4504-bc51-2967a179fc2d",
+        "b195599c-9e32-4c33-92ad-cc28cf885e00",
+        "f7e1891d-7163-47ba-8407-e840585330e0",
+        "18cb4516-ad85-427b-8354-794c411ac443",
+        "fd986305-e4cd-4562-b20b-a8270a633a23",
+        "69dd4e31-144d-42b8-8458-41ec6054d180",
+        "737b51eb-d113-45c9-9be6-64085c3dca8b",
+        "19ca52cd-628a-42e5-b335-27a1be19dcba"
+      ],
+      "settings": {
+        "edge_to_edge": false,
+        "section_size": "small",
+        "carousel_effect": "slide",
+        "autoplay": true,
+        "cycle_speed": 5
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "pre-order",
+        "title": "Pre Order",
+        "products_count": 16,
+        "layout": "vertical",
+        "stack_products": true,
+        "show_quick_buy": true,
+        "link_title": "View all",
+        "link_url": ""
+      }
+    },
+    "featured-products": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "new-releases",
+        "title": "New Releases",
+        "products_count": 12,
+        "layout": "vertical",
+        "stack_products": true,
+        "show_quick_buy": true,
+        "link_title": "View all",
+        "link_url": ""
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "disabled": true,
+      "blocks": {
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "angelus-apatrida",
+            "link": ""
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "at-the-gates",
+            "link": ""
+          }
+        },
+        "collection-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "dark-tranquillity",
+            "link": ""
+          }
+        },
+        "collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "insomnium",
+            "link": ""
+          }
+        },
+        "collection-6": {
+          "type": "collection",
+          "settings": {
+            "collection": "napalm-death",
+            "link": ""
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "omnium-gatherum",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-2",
+        "collection-3",
+        "collection-5",
+        "collection-4",
+        "collection-6",
+        "collection-1"
+      ],
+      "settings": {
+        "title": "Featured Artists",
+        "link_title": "View all",
+        "link": "",
+        "round_images": false,
+        "show_collection_title": true
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Newsletter",
+        "content": "<p>Subscribe to our newsletter!<\/p>",
+        "background": "#ffffff",
+        "text": "#666666"
+      }
+    }
+  },
+  "order": [
+    "fc6b99b4-7b3b-4cac-b837-93c99192edda",
+    "slideshow",
+    "f2af40f5-1458-4998-a36a-9e89ab416c98",
+    "featured-collection",
+    "featured-products",
+    "collection-list",
+    "newsletter"
+  ]
+}
