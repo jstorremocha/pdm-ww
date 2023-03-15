@@ -5,7 +5,7 @@
     "accent_color": "#5a1eb4",
     "link_color": "#fff05d",
     "border_color": "#5a1eb4",
-    "background": "#ffffff",
+    "background": "#000000",
     "secondary_background": "#ffffff",
     "error_color": "#cf0e0e",
     "success_color": "#5a1eb4",
@@ -112,7 +112,7 @@
         "settings": {
           "enable_sticky_header": true,
           "logo": "shopify:\/\/shop_images\/PDM_small_4d72de63-3e04-4a19-81bd-4e39578f3da7.png",
-          "logo_max_width": 160,
+          "logo_max_width": 140,
           "mobile_logo_max_width": 50,
           "show_locale_selector": true,
           "show_currency_selector": false,
