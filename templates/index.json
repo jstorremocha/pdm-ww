@@ -487,12 +487,66 @@
         "round_images": false,
         "show_collection_title": true
       }
+    },
+    "2d74b5d6-2003-4a99-a841-9e21b6cd1119": {
+      "type": "featured-product",
+      "blocks": {
+        "template--18337392394552__2d74b5d6-2003-4a99-a841-9e21b6cd1119-1678876346df30e5ae-0": {
+          "type": "product_meta",
+          "settings": {
+            "show_vendor": true,
+            "show_sku": false,
+            "show_reviews_badge": false,
+            "show_share_buttons": true
+          }
+        },
+        "template--18337392394552__2d74b5d6-2003-4a99-a841-9e21b6cd1119-1678876346df30e5ae-1": {
+          "type": "featured_description",
+          "settings": {
+          }
+        },
+        "template--18337392394552__2d74b5d6-2003-4a99-a841-9e21b6cd1119-1678876346df30e5ae-2": {
+          "type": "variant_selector",
+          "settings": {
+            "selector_mode": "block",
+            "color_mode": "color",
+            "show_quantity_selector": true,
+            "show_taxes_included": false,
+            "show_inventory_quantity": false,
+            "low_inventory_threshold": 0
+          }
+        },
+        "template--18337392394552__2d74b5d6-2003-4a99-a841-9e21b6cd1119-1678876346df30e5ae-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true
+          }
+        }
+      },
+      "block_order": [
+        "template--18337392394552__2d74b5d6-2003-4a99-a841-9e21b6cd1119-1678876346df30e5ae-0",
+        "template--18337392394552__2d74b5d6-2003-4a99-a841-9e21b6cd1119-1678876346df30e5ae-1",
+        "template--18337392394552__2d74b5d6-2003-4a99-a841-9e21b6cd1119-1678876346df30e5ae-2",
+        "template--18337392394552__2d74b5d6-2003-4a99-a841-9e21b6cd1119-1678876346df30e5ae-3"
+      ],
+      "settings": {
+        "product": "purple-disco-machine-substitution-12-inch",
+        "title": "",
+        "link_title": "View details",
+        "link_url": "",
+        "image_size": "small",
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "zoom_effect": "outside",
+        "carousel_effect": "fade"
+      }
     }
   },
   "order": [
     "fc6b99b4-7b3b-4cac-b837-93c99192edda",
     "slideshow",
     "f2af40f5-1458-4998-a36a-9e89ab416c98",
-    "collection-list"
+    "collection-list",
+    "2d74b5d6-2003-4a99-a841-9e21b6cd1119"
   ]
 }
