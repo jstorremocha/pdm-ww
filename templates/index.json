@@ -502,6 +502,7 @@
         },
         "template--18337392394552__2d74b5d6-2003-4a99-a841-9e21b6cd1119-1678876346df30e5ae-1": {
           "type": "featured_description",
+          "disabled": true,
           "settings": {
           }
         },
