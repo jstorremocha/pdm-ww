@@ -134,6 +134,7 @@
         "blocks": {
           "b1ff6c53-266c-47e1-8025-b1a6d9ba73b2": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "title": "",
               "content": "<p><a href=\"\/pages\/terms-and-service\" title=\"Terms and service\">Terms and Service<\/a><\/p><p><a href=\"\/pages\/privacy-statement\" title=\"Privacy statement\">Privacy Statement<\/a><\/p><p><a href=\"\/pages\/return-policy\" title=\"Return policy\">Return Policy<\/a><\/p>"
@@ -141,6 +142,7 @@
           },
           "footer-0": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "title": "",
               "content": "<p><a href=\"\/pages\/imprint\" title=\"Imprint\">Imprint<\/a><\/p><p><a href=\"\/pages\/payment-and-shipping\" title=\"Payment and shipping\">Payment and Shipping<\/a><\/p><p><a href=\"\/pages\/privacy-statement\" title=\"Privacy Statement\">Privacy Statement<\/a><\/p>"
@@ -148,7 +150,6 @@
           },
           "footer-1": {
             "type": "links",
-            "disabled": true,
             "settings": {
               "menu": "footer"
             }
