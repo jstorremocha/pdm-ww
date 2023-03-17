@@ -150,6 +150,7 @@
           },
           "footer-1": {
             "type": "links",
+            "disabled": true,
             "settings": {
               "menu": "footer"
             }
