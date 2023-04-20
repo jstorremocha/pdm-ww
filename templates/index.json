@@ -501,11 +501,6 @@
             "show_share_buttons": true
           }
         },
-        "template--18337392394552__2d74b5d6-2003-4a99-a841-9e21b6cd1119-1678876346df30e5ae-1": {
-          "type": "featured_description",
-          "settings": {
-          }
-        },
         "template--18337392394552__2d74b5d6-2003-4a99-a841-9e21b6cd1119-1678876346df30e5ae-2": {
           "type": "variant_selector",
           "settings": {
@@ -522,13 +517,18 @@
           "settings": {
             "show_payment_button": true
           }
+        },
+        "template--18337392394552__2d74b5d6-2003-4a99-a841-9e21b6cd1119-1678876346df30e5ae-1": {
+          "type": "featured_description",
+          "settings": {
+          }
         }
       },
       "block_order": [
         "template--18337392394552__2d74b5d6-2003-4a99-a841-9e21b6cd1119-1678876346df30e5ae-0",
-        "template--18337392394552__2d74b5d6-2003-4a99-a841-9e21b6cd1119-1678876346df30e5ae-1",
         "template--18337392394552__2d74b5d6-2003-4a99-a841-9e21b6cd1119-1678876346df30e5ae-2",
-        "template--18337392394552__2d74b5d6-2003-4a99-a841-9e21b6cd1119-1678876346df30e5ae-3"
+        "template--18337392394552__2d74b5d6-2003-4a99-a841-9e21b6cd1119-1678876346df30e5ae-3",
+        "template--18337392394552__2d74b5d6-2003-4a99-a841-9e21b6cd1119-1678876346df30e5ae-1"
       ],
       "settings": {
         "product": "purple-disco-machine-x-kungs-substitution-12-inch",
